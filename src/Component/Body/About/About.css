@@ -23,7 +23,7 @@
 
 @media only screen and (max-width: 720px) {
   .about-top {
-    margin: 50px;
+    margin: 40px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
