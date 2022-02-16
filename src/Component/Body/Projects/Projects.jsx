@@ -10,7 +10,7 @@ const Projects = () => {
 
     <div className="projects">
       <Separator />
-      <label>Projects</label>
+      <label className='heading'>Projects : </label>
       <div className="section-title">
         {data.map((project)=>{
           return <ProjectCard project={project} />

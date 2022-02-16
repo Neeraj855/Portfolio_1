@@ -1,6 +1,11 @@
-.project{
-    display: flex;
-    flex-direction: column;
-    flex: 1;
+.project {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
+.heading {
+  padding: 5px;
+  font-size: 2rem;
+  font-weight: 500;
+}
